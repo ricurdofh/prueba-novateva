@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/prueba-novateva/static/css/main.b09562d2.chunk.css",
+    "main.js": "/prueba-novateva/static/js/main.35287037.chunk.js",
+    "main.js.map": "/prueba-novateva/static/js/main.35287037.chunk.js.map",
+    "runtime-main.js": "/prueba-novateva/static/js/runtime-main.8969a22f.js",
+    "runtime-main.js.map": "/prueba-novateva/static/js/runtime-main.8969a22f.js.map",
+    "static/css/2.8c5e7601.chunk.css": "/prueba-novateva/static/css/2.8c5e7601.chunk.css",
+    "static/js/2.d3b42410.chunk.js": "/prueba-novateva/static/js/2.d3b42410.chunk.js",
+    "static/js/2.d3b42410.chunk.js.map": "/prueba-novateva/static/js/2.d3b42410.chunk.js.map",
+    "index.html": "/prueba-novateva/index.html",
+    "precache-manifest.a547f73203c8b4e141d8efe100619176.js": "/prueba-novateva/precache-manifest.a547f73203c8b4e141d8efe100619176.js",
+    "service-worker.js": "/prueba-novateva/service-worker.js",
+    "static/css/2.8c5e7601.chunk.css.map": "/prueba-novateva/static/css/2.8c5e7601.chunk.css.map",
+    "static/css/main.b09562d2.chunk.css.map": "/prueba-novateva/static/css/main.b09562d2.chunk.css.map",
+    "static/js/2.d3b42410.chunk.js.LICENSE.txt": "/prueba-novateva/static/js/2.d3b42410.chunk.js.LICENSE.txt",
+    "static/media/notifications.css": "/prueba-novateva/static/media/notification.c0d3c94c.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8969a22f.js",
+    "static/css/2.8c5e7601.chunk.css",
+    "static/js/2.d3b42410.chunk.js",
+    "static/css/main.b09562d2.chunk.css",
+    "static/js/main.35287037.chunk.js"
+  ]
+}
